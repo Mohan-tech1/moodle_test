@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Feedback block caps.
+ * Moodle test block caps.
  *
- * @package    block_feedback
- * @copyright  Mark Nelson <markn@moodle.com>
+ * @package    block_moodletest
+ * @copyright  Mohan Lal Sharma <mohan202145@gmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

@@ -15,14 +15,14 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_feedback', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'block_moodletest'
  *
- * @package   block_feedback
- * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @package   block_moodletest
+ * @copyright Mohan Lal Sharma <mohan202145@gmail.com>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 $string['moodletest'] = 'Moodle test';
-$string['moodletest:addinstance'] = 'Add a new feedback block';
-$string['pluginname'] = 'moodletest';
-$string['privacy:metadata'] = 'The Feedback block only shows data stored in other locations.';
+$string['moodletest:addinstance'] = 'Add a new moodle test block';
+$string['pluginname'] = 'moodle test';
+$string['privacy:metadata'] = 'The moodle test block only shows data stored in other locations.';
